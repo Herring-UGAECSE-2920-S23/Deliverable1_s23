@@ -36,6 +36,12 @@ At this stage, it would be wise to attach the small fan to the lid of the case a
 
 Now, we'll go through the OS installation, and make sure our Python environment is correctly configured with all of the software dependencies you'll need for the project.
 
+### Raspberry Pi and SD Card Issues
+
+The Raspberry PI is very finicky when it comes to the SD Card.  Please read the following information for best practices.
+
+https://hackaday.com/2022/03/09/raspberry-pi-and-the-story-of-sd-card-corruption/
+
 ### Raspberry Pi OS Installation
 
 To install Raspberry Pi OS Installation, we'll need to boot up the Pi for first-time setup. Below you will find the link to a guide for the first time set up of your Raspberry pi if it is new.
