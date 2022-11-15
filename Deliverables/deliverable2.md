@@ -1,6 +1,6 @@
 # Deliverable 2
 
-For this week, completing a syllabus quiz, you'll be creating a team attendance sheet, documenting the state of existing hardware you have recieved and going through the preliminary setup for the Raspberry Pi hardware. 
+For this week, after completing a syllabus quiz, you'll be creating a team attendance sheet, documenting the state of existing hardware you have recieved, characterizing the digital potentiometers, and going through the preliminary setup for the Raspberry Pi hardware. 
 
 Right now would also be a good time to read through the rules for the project outlined [in the README](../README.md) for this repository.
  
@@ -9,9 +9,9 @@ Right now would also be a good time to read through the rules for the project ou
 
 For this section of the deliverable, you'll be following the included instructions or using your own design to assemble and use your car. While doing that please ensure your kit has all the neccessary parts and that those parts work. This will be very important for a smooth return process at the end of the semester. To help with this see [this guide](./setup/car_parts.md) for the parts and how they should be working.
 
-## Assemble Hardware (P)
+## Characterize Digital Potentiometers (P)
 
-For this section you will need to assemble your car. Before Assembling see the included guide for guidelines while building. You may use the instructions included in the kit or assemble it your own way. 
+For this section you will need to characterize digital potientometers to use for the rest of the project.
 
 ## Raspberry Pi Setup (P)
 
