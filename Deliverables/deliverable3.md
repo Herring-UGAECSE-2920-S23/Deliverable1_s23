@@ -22,22 +22,14 @@ For both of these you'll need to use the [`pigpio` Python library](http://abyz.m
 While you're creating your GPIO input script, you'll notice that a simple polling method of using the GPIO may not give the results desired. To remedy this, we suggesting looking into setting up [interrupts/callbacks](http://abyz.me.uk/rpi/pigpio/python.html#callback) with the GPIO pins.
 
 
-## Wiggle Motors (D)
+## Solder Raspberry Pi Hat (D)
 
-Now that you know how to use your raspberry pi's GPIOs you now can use them to move your motors.
-
-First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time. 
-
-**Hint**: Take a look at [python multithreading](https://realpython.com/intro-to-python-threading/) in order to protect your program as you run methods for both motors.
-
-To accomplish this you willl need to know how to **access and use a GPIO**
+In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality.
 
 ## Spectrum Analyzer (D)
 If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document](./setup/spectrum_instr.md) in order to help characterize your Mic or anything else you may want to use it for. 
 
-## Characterize Microphone(D)
 
-For this deliverable the goal is to characterize your microphone. This means adjusting the gain(sensitivity) to your desired level. As well as testing to see what exactly your desired level is. In result you should have and LED circuit that lights up when the Microphone is picking up your sound how you want it to, as well as turning off when that sound is not in your range.
 
 
 # Summary
@@ -46,10 +38,8 @@ In summary, for this week you need to:
 
 1. **D**: Make sure all your hardware is in your kit and is in working shapes and fill out the parts checklist
 
-2. **D**: Wiggle your DC Motors(forward, backward, and one by one).
+2. **D**: Solder the Raspberry Pi Hat
 
-3. **D**: Characterise your Microphone. See how sensitive it is and make sure it is characterized enough to do what you need it to with your Audio Car.
+3. **D**: Practice using a spectrum analyzer, using the documents provided and provide proof in your documentation.
 
-4. **D**: Practice using a spectrum analyzer, using the documents provided and provide proof in your documentation.
-
-5. Update your User Manual and Technical Documentation with your findings.
+4. Update your User Manual and Technical Documentation with your findings.
