@@ -1,5 +1,5 @@
 # Deliverable 1
- For this first deliverable y'all will be doing three things: completing your CATME form, setting up a Github account and submitting your username, and doing a "Hello World" exercise with Python/Github once you've been assigned a group.
+ For the first deliverable your group will be doing three things: completing your CATME form, setting up a Github account and submitting your username, and doing a "Hello World" exercise with Python/Github once you've been assigned a group.
  
 ## CATME Submission
 Please fill out and submit the CATME form sent to your email! Do this by 1/13/2022, otherwise we will assign you to a group at our discretion!
