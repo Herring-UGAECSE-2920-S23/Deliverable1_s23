@@ -21,6 +21,10 @@ Finally, you'll need to go through the Raspberry Pi setup documentation found [h
 
 After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. 
 
+## Datasheet Quiz (P)
+
+There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
+
 
 # Summary
 
@@ -32,5 +36,7 @@ In summary, for this week you need to:
 
 3. **P**:  Practice Commiting Changes, make sure they are showing up on your repository 
 
-4. Update your User Manual and Technical Documentation with your findings.
+4. **P**: Complete Datasheet Quiz
+
+5. Update your User Manual and Technical Documentation with your findings.
 
