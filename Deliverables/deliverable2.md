@@ -28,11 +28,9 @@ In summary, for this week you need to:
 
 1. Make sure you have acquired all of the hardware for your team.
 
-2. **P**: Assemble the Audio Car Kit, and get familar with your hardware.
+2. **P**: Go though the Raspberry Pi setup, and acquaint yourself with working on the Pi/Github/etc.
 
-3. **P**: Go though the Raspberry Pi setup, and acquaint yourself with working on the Pi/Github/etc.
+3. **P**:  Practice Commiting Changes, make sure they are showing up on your repository 
 
-4. **P**:  Practice Commiting Changes, make sure they are showing up on your repository 
-
-5. Update your User Manual and Technical Documentation with your findings.
+4. Update your User Manual and Technical Documentation with your findings.
 
