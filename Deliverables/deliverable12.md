@@ -1,6 +1,6 @@
 ## Deliverable 12
 
-## Complete Sine Wave **D**
+## Complete Sine Wave (D)
 
 
 
