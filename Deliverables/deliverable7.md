@@ -5,8 +5,11 @@ In this deliverable you will begin working with either Eagle or Altium to create
 ## PCB Schematic (P)
 Review the lecture slides for starting points on working with Eagle/Altium. Get familiar with the software this week, and begin the schematic by adding the circuitry your team used to create the Voltmeter and DC Voltage Supply.
 
-## DC Voltage Supply (P)
-The DC Voltage supply will need to range from -3.75V to +3.75V a
+## Ohmmeter
+
+## Voltmeter (P)
+For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 3.75 V. Your team will need to build an analog to digital converter (ADC) to achieve this.
+
 
 # Summary
 
