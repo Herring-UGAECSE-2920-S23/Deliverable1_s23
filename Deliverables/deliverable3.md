@@ -21,10 +21,9 @@ For both of these you'll need to use the [`pigpio` Python library](http://abyz.m
 
 While you're creating your GPIO input script, you'll notice that a simple polling method of using the GPIO may not give the results desired. To remedy this, we suggesting looking into setting up [interrupts/callbacks](http://abyz.me.uk/rpi/pigpio/python.html#callback) with the GPIO pins.
 
+## Characterize Digital Potentiometers (P)
 
-## Solder Raspberry Pi Hat (D)
-
-In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins.
+For this section you will need to characterize digital potientometers to use for the rest of the project.
 
 ## Spectrum Analyzer (D)
 If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document](./setup/spectrum_instr.md).
