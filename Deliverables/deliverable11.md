@@ -1,8 +1,8 @@
 ## Deliverable 11
 
-## Solder PCB (P)
+## Implement Sine Wave Model (P)
 
-## Begin Sine Wave (P)
+## AC Meter Measuring Frequency. (P)
 
 
 
@@ -10,6 +10,6 @@
 
 In summary, for this week you need to:
 
-1. **P**: Solder PCB
-2. **P**: Sine Wave Progress
+1. **P**: Get hardware working from model of sone wave
+2. **P**: AC Meter Measuring Frequency
 3. Update your User Manual and Technical Documentation with your findings.
