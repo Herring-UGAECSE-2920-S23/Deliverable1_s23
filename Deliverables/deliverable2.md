@@ -9,9 +9,10 @@ Right now would also be a good time to read through the rules for the project ou
 
 For this section of the deliverable, you'll be following the included instructions or using your own design to assemble and use your car. While doing that please ensure your kit has all the neccessary parts and that those parts work. This will be very important for a smooth return process at the end of the semester. To help with this see [this guide](./setup/car_parts.md) for the parts and how they should be working.
 
-## Characterize Digital Potentiometers (P)
+## Solder Raspberry Pi Hat (D)
 
-For this section you will need to characterize digital potientometers to use for the rest of the project.
+In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins.
+
 
 ## Raspberry Pi Setup (P)
 
