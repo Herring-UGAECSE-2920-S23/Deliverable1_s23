@@ -2,8 +2,6 @@
 In this deliverable you will begin working with either Eagle or Altium to create a schematic for a PCB of the project. You will also be creating the DC Voltage supply for your function generator.
 
 
-## PCB Schematic (P)
-Review the lecture slides for starting points on working with Eagle/Altium. Get familiar with the software this week, and begin the schematic by adding the circuitry your team used to create the Voltmeter and DC Voltage Supply.
 
 ## Ohmmeter
 
