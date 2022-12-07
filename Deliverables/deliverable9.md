@@ -7,6 +7,9 @@ The square wave needs to be centered at the x-axis, have an amplitude of -5V to 
 ## PCB Schematic (D)
 Your team will need to updaate the schematic from deliverable 7 with all new circuitry added from the ohmmeter and square wave.
 
+# DC Voltage Supply (P)
+The DC Voltage supply will need to range from -3.75V to +3.75V.
+
 # Summary
 
 In summary, for this week you need to:
