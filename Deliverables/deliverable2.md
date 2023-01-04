@@ -5,10 +5,6 @@ For this week, after completing a syllabus quiz, you'll be creating a team atten
 Right now would also be a good time to read through the rules for the project outlined [in the README](../README.md) for this repository.
  
 
-## Documenting Existing Behavior (P)
-
-For this section of the deliverable, you'll be following the included instructions or using your own design to assemble and use your car. While doing that please ensure your kit has all the neccessary parts and that those parts work. This will be very important for a smooth return process at the end of the semester. To help with this see [this guide](./setup/car_parts.md) for the parts and how they should be working.
-
 ## Solder Raspberry Pi Hat (D)
 
 In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins.
