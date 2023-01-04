@@ -7,7 +7,7 @@ Right now would also be a good time to read through the rules for the project ou
 
 ## Solder Raspberry Pi Hat (D)
 
-In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins.
+In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.
 
 
 ## Raspberry Pi Setup (P)
@@ -17,10 +17,6 @@ Finally, you'll need to go through the Raspberry Pi setup documentation found [h
 ## Practice Committing Changes(P)
 
 After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. 
-
-## Datasheet Quiz (P)
-
-There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
 
 ## Create User Manual and Technical Document 
 
@@ -32,11 +28,11 @@ In summary, for this week you need to:
 
 1. Make sure you have acquired all of the hardware for your team.
 
-2. **P**: Go though the Raspberry Pi setup, and acquaint yourself with working on the Pi/Github/etc.
+2. **D**: Solder Raspberry Pi Hat
 
-3. **P**:  Practice Commiting Changes, make sure they are showing up on your repository 
+3. **P**: Go though the Raspberry Pi setup, and acquaint yourself with working on the Pi/Github/etc.
 
-4. **P**: Complete Datasheet Quiz
+4. **P**:  Practice Commiting Changes, make sure they are showing up on your repository 
 
 5. Update your User Manual and Technical Documentation with your findings.
 
