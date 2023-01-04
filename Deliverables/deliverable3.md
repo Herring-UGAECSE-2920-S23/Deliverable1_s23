@@ -21,13 +21,17 @@ For both of these you'll need to use the [`pigpio` Python library](http://abyz.m
 
 While you're creating your GPIO input script, you'll notice that a simple polling method of using the GPIO may not give the results desired. To remedy this, we suggesting looking into setting up [interrupts/callbacks](http://abyz.me.uk/rpi/pigpio/python.html#callback) with the GPIO pins.
 
-## Characterize Digital Potentiometers (P)
+## Characterize Digital Potentiometers (D)
 
 For this section you will need to characterize digital potientometers to use for the rest of the project.
 
-## Spectrum Analyzer (D)
-If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document](./setup/spectrum_instr.md).
+## Datasheet Quiz
 
+There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
+
+## User Interface (UI) Check (D)
+
+Your team will need to have the basics of your user interface working, including showing the knobs make a change on the LCD screen and having a high and low speed that relate the speed of knob to the number of counts.
 
 
 
@@ -37,8 +41,10 @@ In summary, for this week you need to:
 
 1. **D**: Make sure all your hardware is in your kit and is in working shapes and fill out the parts checklist
 
-2. **D**: Solder the Raspberry Pi Hat
+2. **D**: Characterize your digital potentiometers
+ 
+3. **P**: Complete Datasheet Quiz
 
-3. **D**: Practice using a spectrum analyzer, using the documents provided and provide proof in your documentation.
+4. **D**: User Interface Check
 
-4. Update your User Manual and Technical Documentation with your findings.
+5. Update your User Manual and Technical Documentation with your findings.
