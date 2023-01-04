@@ -22,6 +22,9 @@ After your Raspberry Pi is fully setup along with your github account. You can n
 
 There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
 
+## Create User Manual and Technical Document 
+
+An important part of your team's grade in this course relies on the user manual and technical documentation that will be submitted at the end of the semester. Begin taking photos and recording what your team does each week to ensure your work is organized. This will not be graded on a weekly basis, BUT it is incredibly helpful to have your explanations and work in one place, rather than scrambling at the last minute to remember the details of what was done each week.
 
 # Summary
 
