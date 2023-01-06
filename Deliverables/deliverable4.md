@@ -3,7 +3,7 @@
 For deliverable 4, you will be programming your audio car's motors to be used at the same rate of speed using a transfer function. **Hint:** It may be a good idea to check out speed control for GPIOs. In addition you will also be illustration and describing your power diagram and GPIOS.
 
 ## Eagle Assignment (P)
-For this deliverable, your group will need to download both the schematic and board file of the Pi Hat in order to answer questions about the board and correct purposeful mistakes. Be sure to follow all PCB rules discussed in lecture
+For this deliverable, your group will need to download both the schematic and board file of the Pi Hat in order to answer questions about the board and correct purposeful mistakes. Be sure to follow all PCB rules discussed in lecture. Explore Eagle and be able to use this tool (or another, such as Multisim) to model your circuitry. Hand drawn schematics/circuits are not professional.
 
 ## GPIO Diagram and Power Diagram (P)
 This deliverable will be very helpful as you progress through this project and add more parts, use more GPIOs and start to use your raspberry pi to its full potential.
