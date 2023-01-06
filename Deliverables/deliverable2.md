@@ -5,7 +5,7 @@ For this week, after completing a syllabus quiz, you'll be creating a team atten
 Right now would also be a good time to read through the rules for the project outlined [in the README](../README.md) for this repository.
  
 
-## Solder Raspberry Pi Hat (D)
+## Solder Raspberry Pi Hat (P)
 
 In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.
 
@@ -28,7 +28,7 @@ In summary, for this week you need to:
 
 1. Make sure you have acquired all of the hardware for your team.
 
-2. **D**: Solder Raspberry Pi Hat
+2. **P**: Solder Raspberry Pi Hat
 
 3. **P**: Go though the Raspberry Pi setup, and acquaint yourself with working on the Pi/Github/etc.
 
