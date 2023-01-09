@@ -11,6 +11,11 @@ As a continuation from last week, using your [hardware list](./images/PartList.p
 
 >***Warning: while connecting up simple components to the GPIO pins is perfectly safe, it's important to be careful how you wire things up. LEDs should have resistors to limit the current passing through them. Do not use 5V for 3.3V components. Do not connect high current devices like motors directly to the GPIO pins, instead use an H-bridge circuit or a motor controller board.***
 
+## Great resource for GPIOS.  Read prior to programming!
+The Raspberry PI GPIOS are the primary way to blow up your PI.  They default to certain states and you must program them and make sure you understand the valid state prior to using.  Here are a couple of references.  You may find others online as well.
+- https://roboticsbackend.com/raspberry-pi-3-pins/
+- https://roboticsbackend.com/raspberry-pi-gpios-default-state/
+
 As you begin to use your Raspberry Pi, you'll need to demonstrate that you can access and use a GPIO as both input and output. Your Raspberry Pi should have come with a breadboard, some jumper wires, and some resistors, LEDs, and a DIP switch for this demonstration.
 
 **Practice:** To demonstrate output, create a Python script to blink an LED, either with user control or on a set interval. To demonstrate input, use the guides below to create a Python script to print a statement once on the screen whenever the switch is flipped in the real world.
