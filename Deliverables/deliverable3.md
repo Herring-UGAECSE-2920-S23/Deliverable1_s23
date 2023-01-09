@@ -24,6 +24,8 @@ While you're creating your GPIO input script, you'll notice that a simple pollin
 ## Characterize Digital Potentiometers (D)
 
 For this section you will need to characterize digital potientometers to use for the rest of the project.
+- Give a concrete description of how the digital potentiometer works.
+- Include documentation and code showing that you programmed the potentiometer to multiple values (100,1000,5000,10000 Ohms).
 
 ## Datasheet Quiz
 
@@ -31,9 +33,17 @@ There is a quiz on ELC that will assess your ability to read and interpret datas
 
 ## User Interface (UI) Check (D)
 
-Your team will need to have the basics of your user interface working, including showing the knobs make a change on the LCD screen and having a high and low speed that relate the speed of knob to the number of counts.
+Your team will need to have the basics of your user interface working, including showing the knobs make a change on the LCD screen and having a high and low speed that relate the speed of knob to the number of counts.  You will do this to program a resistance on the digital potentiometer.
+- You can use the UI check code to characterize the potentiometer (above) if you'd like
+- The knob will control the resistance value desired from the digital potentiometer.
+- Your team must have a “slow” and a “fast” detector for the knob spin.  For slow, increment the value shown to the user by “10Ω”.  For fast, increment the value shown to the user by “100Ω”.  Your team must use the final value to program the digital potentiometer to change to this value as a resistance.  Use the push button feature on the knob to set the value and program the potentiometer.
+- The output resistance of the potentiometer should match your selected value.  
+- Your team will also need to demonstrate both potentiometers on the IC chip working individually.  
 
 
+## PPH Related
+- Verify your team's PPH.  It must pass the verification check.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
+- Load the PPH Eagle file and answer the design related questions.
 
 # Summary
 
