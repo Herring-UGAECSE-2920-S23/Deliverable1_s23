@@ -5,7 +5,10 @@
 Please fill out and submit the CATME form sent to your email! Do this by 1/11/2023, otherwise we will assign you to a group at our discretion!
 
 ## Syllabus Quiz
-Please Complete the Syllabus Quiz found on ELC by 1/13/2022.
+Please Complete the Syllabus Quiz found on ELC by the due date on ELC.
+
+## Get Access to Fab Lab
+Complete Fab Access class on ELC
 
 ## Github Account Setup
 
