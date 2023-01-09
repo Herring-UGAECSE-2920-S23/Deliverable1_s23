@@ -74,9 +74,9 @@ When wiring up components with a breadboard it is crucial that your wires stay o
 - Besides organization, this will really help you spot mis-wirings before you apply power and potentially damage your hardware. Keep a careful lookout for RED and BLACK wires connecting to the same terminal strip, as this could indicate a short.
 
 3. ### Final areas of "neatness"
-Use labels to identify signals.
-Clean up wiring with zipties or glue or shorter wires.
-If functions are completed and stable, consider soldering to proto/zip boards
+- Use labels to identify signals.
+- Clean up wiring with zipties or glue or shorter wires.
+- If functions are completed and stable, consider soldering to proto/zip boards
 
 
 ### Maintaining your Group Github Repository
