@@ -2,7 +2,7 @@
  For the first deliverable your group will be doing three things: completing your CATME form, setting up a Github account and submitting your username, and doing a "Hello World" exercise with Python/Github once you've been assigned a group.
  
 ## CATME Submission
-Please fill out and submit the CATME form sent to your email! Do this by 1/13/2022, otherwise we will assign you to a group at our discretion!
+Please fill out and submit the CATME form sent to your email! Do this by 1/11/2023, otherwise we will assign you to a group at our discretion!
 
 ## Syllabus Quiz
 Please Complete the Syllabus Quiz found on ELC by 1/13/2022.
@@ -21,7 +21,7 @@ After you've been assigned to a group, make sure you have set up your Github acc
 
 ![notifications](images/PRO.png)
 
-Once you've accepted the group invite, you'll have access to your group's repository on the "Herring-UGAECSE-2920-S22" Github organization. From here, you'll need to set up [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git) and [Python](https://realpython.com/installing-python/) on your personal computer to complete this assignment (assuming they are not already installed).
+Once you've accepted the group invite, you'll have access to your group's repository on the Github organization for the class. From here, you'll need to set up [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git) and [Python](https://realpython.com/installing-python/) on your personal computer to complete this assignment (assuming they are not already installed).
 
 >Note: In order to clone Git repositories via SSH (recommended) you need to have the public SSH key for your computer linked to your Github account. Instructions for generating and linking SSH keys are in the Git setup guide linked above.
 
