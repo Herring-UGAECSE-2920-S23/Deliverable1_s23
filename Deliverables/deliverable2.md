@@ -7,8 +7,9 @@ Right now would also be a good time to read through the rules for the project ou
 
 ## Solder Raspberry Pi Hat (P)
 
-In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.  A helpful hint is to leave the two 2x20 pin headers for last.  Also, make sure that you see that the female header is facing down on the underside of the PPH.  Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter for this.
+In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.  A helpful hint is to leave the two 2x20 pin headers for last.  Also, make sure that you see that the female header is facing down on the underside of the PPH.  Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter The schematic will be helpful.
 
+- https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/Schem_GPIO_Hat_v4.0.pdf
 
 ## Raspberry Pi Setup (P)
 
