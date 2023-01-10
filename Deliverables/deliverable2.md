@@ -15,9 +15,12 @@ In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to 
 
 Finally, you'll need to go through the Raspberry Pi setup documentation found [here](setup/pi_setup.md). It will guide you through setting up the Pi and getting all of the Python dependencies and environment set up. It will also link to helpful documentation for how to work on the Raspberry Pi, remotely or otherwise.
 
-## Practice Committing Changes(P)
+## Practice Committing Changes (P)
 
-After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. 
+After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. NOTE:  Everyone on the team MUST have at least one commit.  Yes, roles will develop throughout the semester, but everyone on the team should be familiar with Github. 
+
+## Template for Submission to ELC
+To standarize the submission process, on ELC is file called "Template_Group#_ Deliverable#.  Rename accordingly, and use this to place the items for Progress Deliverable 1 and submit the corresponding assignment dropbox on ELC.  Don't forget to complete the last page.  Each deliverable submission also needs to include the selfie of the group meeting along with the highlights of the topics covered.  
 
 ## Create User Manual and Technical Document 
 
@@ -36,4 +39,6 @@ In summary, for this week you need to:
 4. **P**:  Practice Commiting Changes, make sure they are showing up on your repository 
 
 5. Update your User Manual and Technical Documentation with your findings.
+
+6.  When all **P** deliverables are finished, use the template to submit to ELC before the deadline.  
 
