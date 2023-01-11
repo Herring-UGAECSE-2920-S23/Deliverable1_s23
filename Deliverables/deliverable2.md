@@ -11,7 +11,7 @@ In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to 
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/PCB%20Soldering%20Instructions.pdf
 
-Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter The schematic will be helpful.  When finished, document this in your team P deliverable.  Use the standard template on ELC.  
+Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter. The schematic will be helpful.  When finished, document this in your team P deliverable.  Use the standard template on ELC.  
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/Schem_GPIO_Hat_v4.0.pdf
 
@@ -21,10 +21,10 @@ Finally, you'll need to go through the Raspberry Pi setup documentation found [h
 
 ## Practice Committing Changes (P)
 
-After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. NOTE:  Everyone on the team MUST have at least one commit.  Yes, roles will develop throughout the semester, but everyone on the team should be familiar with Github.  When finished, document this in your team P devliverable.  Use the standard template on ELC. 
+After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. NOTE:  Everyone on the team MUST have at least one commit.  Yes, roles will develop throughout the semester, but everyone on the team should be familiar with Github.  When finished, document this in your team P deliverable.  Use the standard template on ELC. 
 
 ## Template for Submission to ELC
-To standarize the submission process, on ELC is file called "Template_Group#_ Deliverable#.  Rename accordingly, and use this to place the items for Progress Deliverable 1 and submit the corresponding assignment dropbox on ELC.  Don't forget to complete the last page.  Each deliverable submission also needs to include the selfie of the group meeting along with the highlights of the topics covered.  
+To standarize the submission process, on ELC is file called "Template_Group#_ Deliverable#.  Rename accordingly, and use this to place the items for Progress Deliverable 2 and submit the corresponding assignment dropbox on ELC.  Don't forget to complete the last page.  Each deliverable submission also needs to include the selfie of the group meeting along with the highlights of the topics covered.  
 
 ## Create User Manual and Technical Document 
 
