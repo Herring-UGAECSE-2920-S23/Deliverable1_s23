@@ -4,7 +4,7 @@ For this week's deliverable, you'll be testing some of the functionality of your
 
 ## Verify Hardware (D)
 
-As a continuation from last week, using your [hardware list](./images/PartList.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled our status sheet for your parts.
+As a continuation from last week, using your [hardware list](./images/Parts List.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled out status sheet for your parts.
 
 
 ## Accessing and Using A GPIO 
@@ -38,7 +38,7 @@ For this section you will need to characterize digital potientometers to use for
 
 There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
 
-## PPH Related
+## Pi-Protection Hat (PPH) Related
 - Verify your team's PPH.  It must pass the verification check.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
 - Load the PPH Eagle file and answer the design related questions.
 
@@ -46,7 +46,7 @@ There is a quiz on ELC that will assess your ability to read and interpret datas
 
 In summary, for this week you need to:
 
-1. **D**: Make sure all your hardware is in your kit and is in working shapes and fill out the parts checklist
+1. **D**: Make sure all your hardware is in your kit and is in working shape and fill out the parts checklist
 
 2. **D**: Characterize your digital potentiometers
  
