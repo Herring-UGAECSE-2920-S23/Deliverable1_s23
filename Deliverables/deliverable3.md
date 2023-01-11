@@ -4,7 +4,7 @@ For this week's deliverable, you'll be testing some of the functionality of your
 
 ## Verify Hardware (D)
 
-As a continuation from last week, using your [hardware list](./images/Parts List.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled out status sheet for your parts.
+As a continuation from last week, using your [hardware list](./images/Parts%List.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled out status sheet for your parts.
 
 
 ## Accessing and Using A GPIO 
