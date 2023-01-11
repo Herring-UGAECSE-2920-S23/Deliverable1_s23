@@ -4,7 +4,7 @@ For this week's deliverable, you'll be testing some of the functionality of your
 
 ## Verify Hardware (D)
 
-As a continuation from last week, using your [[hardware list](./images/Parts%20List.png)] check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled out status sheet for your parts.
+As a continuation from last week, using your [[hardware list](./images/Parts%20List.png)], check all the parts in your kit. Make sure they are all in your kit AND are in working condition. This will be important as you begin your project and at the end when you return the kits. Please turn in a filled out status sheet for your parts.
 
 
 ## Accessing and Using A GPIO 
@@ -34,11 +34,11 @@ For this section you will need to characterize digital potientometers to use for
 - The datasheet for the MCP digital potentiometers can be found [here](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/22060b.pdf).
 - In regards to the DFRobot LCD screen, the buttons are not to be used. Selection within the UI should be done using the rotary encoder only.
 
-## Datasheet Quiz
+## Datasheet Quiz (P)
 
 There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
 
-## Pi-Protection Hat (PPH) Related
+## Pi-Protection Hat (PPH) (D)
 - Verify your team's PPH.  It must pass the verification check.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
 - Load the PPH Eagle file and answer the design related questions.
 
