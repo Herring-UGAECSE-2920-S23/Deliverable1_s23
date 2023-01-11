@@ -5,19 +5,19 @@ For this week, after completing a syllabus quiz, you'll be creating a team atten
 Right now would also be a good time to read through the rules for the project outlined [in the README](../README.md) for this repository.
  
 
-## Solder Raspberry Pi Hat (P)
+## Solder Raspberry Pi Protection Hat (P)
 
-In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.  A helpful hint is to leave the two 2x20 pin headers for last.  Also, make sure that you see that the female header is facing down on the underside of the PPH.  Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter The schematic will be helpful.
+In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.  A helpful hint is to leave the two 2x20 pin headers for last.  Also, make sure that you see that the female header is facing down on the underside of the PPH.  Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter The schematic will be helpful.  When finished, document this in your team P devliverable.  Use the standard template on ELC.  
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/Schem_GPIO_Hat_v4.0.pdf
 
 ## Raspberry Pi Setup (P)
 
-Finally, you'll need to go through the Raspberry Pi setup documentation found [here](setup/pi_setup.md). It will guide you through setting up the Pi and getting all of the Python dependencies and environment set up. It will also link to helpful documentation for how to work on the Raspberry Pi, remotely or otherwise.
+Finally, you'll need to go through the Raspberry Pi setup documentation found [here](setup/pi_setup.md). It will guide you through setting up the Pi and getting all of the Python dependencies and environment set up. It will also link to helpful documentation for how to work on the Raspberry Pi, remotely or otherwise.  When finished, document this in your team P devliverable.  Use the standard template on ELC.  
 
 ## Practice Committing Changes (P)
 
-After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. NOTE:  Everyone on the team MUST have at least one commit.  Yes, roles will develop throughout the semester, but everyone on the team should be familiar with Github. 
+After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. NOTE:  Everyone on the team MUST have at least one commit.  Yes, roles will develop throughout the semester, but everyone on the team should be familiar with Github.  When finished, document this in your team P devliverable.  Use the standard template on ELC. 
 
 ## Template for Submission to ELC
 To standarize the submission process, on ELC is file called "Template_Group#_ Deliverable#.  Rename accordingly, and use this to place the items for Progress Deliverable 1 and submit the corresponding assignment dropbox on ELC.  Don't forget to complete the last page.  Each deliverable submission also needs to include the selfie of the group meeting along with the highlights of the topics covered.  
