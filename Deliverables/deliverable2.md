@@ -67,5 +67,5 @@ In summary, for this week you need to:
 
 5. Update your User Manual and Technical Documentation with your findings.
 
-6.  When all **P** deliverables are finished, use the template to submit to ELC before the deadline.  
+6.  When all **P** deliverables are finished, use the template to submit to ELC before the deadline.  **THERE SHOULD BE ONLY 1 SUBMISSION PER GROUP**.  
 
