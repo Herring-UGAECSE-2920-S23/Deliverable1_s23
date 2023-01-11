@@ -11,7 +11,7 @@ In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to 
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/PCB%20Soldering%20Instructions.pdf
 
-Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter The schematic will be helpful.  When finished, document this in your team P devliverable.  Use the standard template on ELC.  
+Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter The schematic will be helpful.  When finished, document this in your team P deliverable.  Use the standard template on ELC.  
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/Schem_GPIO_Hat_v4.0.pdf
 
