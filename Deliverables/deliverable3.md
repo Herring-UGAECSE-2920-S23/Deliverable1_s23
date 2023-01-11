@@ -32,6 +32,7 @@ For this section you will need to characterize digital potientometers to use for
 - Give a concrete description of how the digital potentiometer works.
 - Include documentation and code showing how you would program the potentiometer to multiple values (100,1000,5000,10000 Ohms). 
 - The datasheet for the MCP digital potentiometers can be found [here](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/22060b.pdf).
+- In regards to the DFRobot LCD screen, the buttons are not to be used. Selection within the UI should be done using the rotary encoder only.
 
 ## Datasheet Quiz
 
