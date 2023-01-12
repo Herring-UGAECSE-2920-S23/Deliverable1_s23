@@ -30,11 +30,11 @@ After that, you're finished.
 
 ## Solder Raspberry Pi Protection Hat (P)
 
-In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. Be sure the diodes are facing in the correct direction to match the silkscreen. This will take a good chunk of time, so be sure to plan ahead.  A helpful hint is to leave the two 2x20 pin headers for last.  Also, make sure that you see that the female header is facing down on the underside of the PPH.  Here is a handy soldering guide for the PPH.
+In order to prevent shorting out the Rapsberry Pi, we have designed a Pi Hat to attach to the top of the Pi. You will need to solder the PCB (printed circuit board) and verify its functionality. This is very important to complete before using GPIO pins. **Be sure the diodes are facing in the correct direction to match the silkscreen.** This will take a good chunk of time, so be sure to plan ahead (it took the TA's around 2 hours).  A helpful hint is to leave the two 2x20 pin headers for last, as this will make it easier to solder the smaller components on the board.  Also, make sure that you see that the female header is facing down on the underside of the PPH (this is what will connect directly to the Pi).  Here is a handy soldering guide for the PPH.
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/PCB%20Soldering%20Instructions.pdf
 
-Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the contiunity checker on a multimeter. The schematic will be helpful.  When finished, document this in your team P deliverable.  Use the standard template on ELC.  
+Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, for example).  Check to make sure there are no shorts on unwanted pins (GPIO to GPIO, GND, 3.3V, 5V).  You can use the continuity checker on a multimeter. The schematic will be helpful.  When finished, document this in your team P deliverable.  Use the standard template on ELC.  
 
 - https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/Schem_GPIO_Hat_v4.0.pdf
 
