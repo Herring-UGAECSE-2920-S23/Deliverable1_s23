@@ -44,7 +44,8 @@ https://hackaday.com/2022/03/09/raspberry-pi-and-the-story-of-sd-card-corruption
 
 ### Raspberry Pi OS Installation
 
-To install Raspberry Pi OS Installation, we'll need to boot up the Pi for first-time setup. Below you will find the link to a guide for the first time set up of your Raspberry pi if it is new.
+To install Raspberry Pi OS Installation, we'll need to boot up the Pi for first-time setup. The Raspberry Pi documentation regarding first time OS installation can be found [here](https://www.raspberrypi.com/software/).
+
 
 
 ### Raspberry Pi OS Configuration
