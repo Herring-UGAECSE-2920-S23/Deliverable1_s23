@@ -55,7 +55,7 @@ In summary, for this week you need to:
 
 2. **D**: Characterize your digital potentiometers
  
-3. **P**: Complete Datasheet Quiz
+3.        Complete Datasheet Quiz
 
 4. **D**: GPIO Input/Output Check
 
