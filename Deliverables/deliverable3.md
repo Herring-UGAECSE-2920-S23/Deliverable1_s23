@@ -55,12 +55,12 @@ In summary, for this week you need to:
 
 2. **D**: Characterize your digital potentiometers
  
-3. Complete Datasheet Quiz
+3. **D**: GPIO Input/Output Check
 
-4. **D**: GPIO Input/Output Check
+4. **D**: Pi-Protection Hat Verification
 
-5. **D**: Pi-Protection Hat Verification
+5. Complete Datasheet Quiz (In-class 1/25)
 
 6. Update your User Manual and Technical Documentation with your findings.
 
-When all deliverables are finished, use the template to submit to ELC before the deadline. THERE SHOULD BE ONLY 1 SUBMISSION PER GROUP.
+When all deliverables are finished, use the template to submit to ELC before the deadline. THERE SHOULD BE ONLY 1 SUBMISSION PER GROUP. Videos can be attached separately.
