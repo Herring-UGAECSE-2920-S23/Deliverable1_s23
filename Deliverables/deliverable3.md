@@ -24,7 +24,7 @@ For both of these you'll need to use the [`pigpio` Python library](http://abyz.m
 
 ### Tips on using Using GPIO as input
 
-While you're creating your GPIO input script, you'll notice that a simple polling method of using the GPIO may not give the results desired. To remedy this, we suggesting looking into setting up [interrupts/callbacks](http://abyz.me.uk/rpi/pigpio/python.html#callback) with the GPIO pins.
+While you're creating your GPIO input script, you'll notice that a simple polling method of using the GPIO may not give the results desired. To remedy this, we suggesting looking into setting up [interrupts/callbacks](http://abyz.me.uk/rpi/pigpio/python.html#callback) or you could use a simple polling routine with the GPIO pins.
 
 ## Characterize Digital Potentiometers (D)
 
