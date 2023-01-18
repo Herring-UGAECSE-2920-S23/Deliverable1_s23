@@ -45,7 +45,6 @@ The format of the quiz is as follows:
 
 ## Pi-Protection Hat (PPH) (D)
 - Verify your team's PPH.  It must pass the verification check.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
-- Load the PPH Eagle file and answer the design related questions.
 
 # Summary
 
