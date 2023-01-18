@@ -20,7 +20,7 @@ This deliverable will be very helpful as you progress through this project and a
  ## NOTE: ALL DIAGRAMS MUST BE PROFESSIONALLY DONE.  USE A TOOL FOR THIS AND NOT PEN AND PAPER
  
  ## Next Design Steps
- Although this is not a deliverable this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first check point refer to the [README](../README.md), [Deliverable 5](/deliverable5.md), and the project description on ELC. Make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 aka User Interface Working.
+ Although this is not a deliverable this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first check point refer to the [README](../README.md), [Deliverable 5](..Deliverables/deliverable5.md), and the project description on ELC. Make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 aka User Interface Working.
  
  
 
