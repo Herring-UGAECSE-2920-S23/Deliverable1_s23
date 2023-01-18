@@ -15,6 +15,7 @@ This deliverable will be very helpful as you progress through this project and a
           3. Name of source delivering the required power (voltage and current)
           
  Along with the listing is a diagram (drawing) showing each source and each load with the voltage distribution drawn. This should be included in your documentation.
+ We don't expect this to be a final design, of course.  But we provided a kit of parts to you. Each IC/component that requires power should be on your list above.
  
  ## NOTE: ALL DIAGRAMS MUST BE PROFESSIONALLY DONE.  USE A TOOL FOR THIS AND NOT PEN AND PAPER
  
