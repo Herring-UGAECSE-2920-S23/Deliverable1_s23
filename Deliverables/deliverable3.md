@@ -37,6 +37,7 @@ For this section you will need to characterize digital potientometers to use for
 ## Datasheet Quiz (P)
 
 There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
+The format of the quiz is as follows: 
 
 ## Pi-Protection Hat (PPH) (D)
 - Verify your team's PPH.  It must pass the verification check.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
