@@ -62,3 +62,5 @@ In summary, for this week you need to:
 5. **D**: Pi-Protection Hat Verification
 
 6. Update your User Manual and Technical Documentation with your findings.
+
+When all P deliverables are finished, use the template to submit to ELC before the deadline. THERE SHOULD BE ONLY 1 SUBMISSION PER GROUP.
