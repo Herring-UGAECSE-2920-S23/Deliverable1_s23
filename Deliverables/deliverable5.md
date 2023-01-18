@@ -3,7 +3,7 @@
 For deliverable 5, you will be taking on your first checkpoint. Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) and the project description on ELC for more information. 
 
 # User Interface (D)
-This first checkpoint requires your team to have the user interface for your function generator fully set up. This includes showing the knobs make a change on the display and high and low speed. You will do this to program a resistance on the digital potentiometers.
+This first checkpoint requires your team to have the beginnings of the user interface for your function generator fully set up. This includes showing the knobs make a change on the display and high and low speed. You will do this to program a resistance on the digital potentiometers.
 - You can use the UI check code to characterize the potentiometer (above) if you'd like
 - The knob will control the resistance value desired from the digital potentiometer.
 - Your team must have a “slow” and a “fast” detector for the knob spin.  For slow, increment the value shown to the user by “10Ω”.  For fast, increment the value shown to the user by “100Ω”.  Your team must use the final value to program the digital potentiometer to change to this value as a resistance.  Use the push button feature on the knob to set the value and program the potentiometer.
