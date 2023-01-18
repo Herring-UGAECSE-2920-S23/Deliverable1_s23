@@ -18,7 +18,7 @@ The Raspberry PI GPIOS are the primary way to blow up your PI.  They default to 
 
 As you begin to use your Raspberry Pi, you'll need to demonstrate that you can access and use a GPIO as both input and output. Your Raspberry Pi should have come with a breadboard, some jumper wires, and some resistors, LEDs, and a DIP switch for this demonstration.
 
-**Practice:** To demonstrate output, create a Python script to blink an LED, either with user control or on a set interval. To demonstrate input, use the guides below to create a Python script to print a statement once on the screen whenever the switch is flipped in the real world.
+**Deliverable:** To demonstrate both input and output functionality, use the guides below to create a Python script that does the following: pressing in on the rotary encoder toggles an LED on or off. Upload a short video (10 seconds or less) on eLC that shows this in action.
 
 For both of these you'll need to use the [`pigpio` Python library](http://abyz.me.uk/rpi/pigpio/index.html#Type_3), with its API [Reference](http://abyz.me.uk/rpi/pigpio/python.html) and some [example code](http://abyz.me.uk/rpi/pigpio/examples.html#Python%20code). Again, make sure to use a current-limiting resistor when using the GPIO as output if you are not using the PHP (Pi Hat Protector), and enable the [Pull-Up or Pull-Down](https://en.wikipedia.org/wiki/Pull-up_resistor) feature on the pin when using it as input. (Note: Make sure to use the `pinout` command in a terminal to check wiring and pin numbers).
 
@@ -58,6 +58,6 @@ In summary, for this week you need to:
  
 3. **P**: Complete Datasheet Quiz
 
-4. **D**: User Interface Check
+4. **D**: GPIO Input/Output Check
 
 5. Update your User Manual and Technical Documentation with your findings.
