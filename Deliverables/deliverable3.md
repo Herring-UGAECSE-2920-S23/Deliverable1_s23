@@ -39,6 +39,11 @@ For this section you will need to characterize digital potientometers to use for
 There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
 The format of the quiz is as follows: 
 
+- On ELC, 14 questions total, 3 short answer, 11 ELC-graded questions
+- Individual, open GitHub
+- Need to know:  Raspberry Pi, Digital Potentiometer (MCP4231), ‘1450 equipment use’
+
+
 ## Pi-Protection Hat (PPH) (D)
 - Verify your team's PPH.  It must pass the verification check.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
 - Load the PPH Eagle file and answer the design related questions.
