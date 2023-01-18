@@ -1,4 +1,4 @@
-# (UNDER CONSTRUCTION) Deliverable 3
+# Deliverable 3
 
 For this week's deliverable, you'll be testing some of the functionality of your Raspberry Pi and additional hardware. 
 
