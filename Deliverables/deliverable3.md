@@ -59,4 +59,6 @@ In summary, for this week you need to:
 
 4. **D**: GPIO Input/Output Check
 
-5. Update your User Manual and Technical Documentation with your findings.
+5. **D**: Pi-Protection Hat Verification
+
+6. Update your User Manual and Technical Documentation with your findings.
