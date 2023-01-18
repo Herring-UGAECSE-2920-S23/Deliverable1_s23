@@ -7,11 +7,11 @@ For this week's deliverable, you'll be testing some of the functionality of your
 As a continuation from last week, using your [[hardware list](./images/Parts%20List.png)], check all the parts in your kit. Make sure they are all in your kit AND are in working condition. This will be important as you begin your project and at the end when you return the kits. Please turn in a filled out status sheet for your parts.
 
 
-## Accessing and Using A GPIO 
+## Accessing and Using A GPIO (D)
 
 >***Warning: while connecting up simple components to the GPIO pins is perfectly safe, it's important to be careful how you wire things up. LEDs should have resistors to limit the current passing through them. Do not use 5V for 3.3V components. Do not connect high current devices like motors directly to the GPIO pins.***
 
-## Great resource for GPIOS.  Read prior to programming!
+Great resource for GPIOS.  Read prior to programming!
 The Raspberry PI GPIOS are the primary way to blow up your PI.  They default to certain states and you must program them and make sure you understand the valid state prior to using.  Here are a couple of references.  You may find others online as well.
 - https://roboticsbackend.com/raspberry-pi-3-pins/
 - https://roboticsbackend.com/raspberry-pi-gpios-default-state/
