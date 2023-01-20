@@ -1,7 +1,7 @@
 ## Deliverable 8
-For this deliverable your group will complete the square wave generator.
+For this deliverable your group will show progress for the square wave generator.
 
-## Square Wave Model
+## Square Wave Model (P)
 Using the PI, generate a square wave with adjustable amplitude within the range of +/- 5Volts.  The frequency should also be adjustable from 100Hz-10KHz.  The square wave should be centered at 0V for the x-axis.  Use your PWM know and LCD UI to control the amplitude and the frequency (See project doc).  As usual, you must have a schematic and simulation for your design in stand-alone form.
 - Eagle Schematic of stand-alone (pdf)
 - Simulation from Multisim (photo)
