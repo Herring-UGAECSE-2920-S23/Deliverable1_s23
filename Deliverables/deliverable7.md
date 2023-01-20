@@ -3,22 +3,22 @@ In this deliverable you will begin creating the DC Voltage supply for your funct
 
 ## Ohmmeter Manual (P)
 Using something like a Wheatstone bridge (Hint-Hint), create a stand-alone Ohmmeter.  Show your Ohmmeter working either with a manual potentiometer.
-The Ohmmeter should measure 100-10KOhms.  The design must include an indicator for the measurement point (perhaps a comparator of some sort). Characterize your Ohmmeter.  That is, what is the measured resistance vs the actual resistance for 100, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, and 10K Ohms. Provide:
+The Ohmmeter should measure 500-10KOhms.  The design must include an indicator for the measurement point (perhaps a comparator of some sort). Characterize your Ohmmeter.  That is, what is the measured resistance vs the actual resistance for 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, and 10K Ohms. Provide:
 - Eagle Schematic of your design
 - Characterization table for your Ohmmeter with manual potentiometer
-- Photo of your design working at 100, 5K, and 10K Ohms with manual potentiometer
+- Photo of your design working at 500, 5K, and 10K Ohms with manual potentiometer
 
 ## Ohmmeter Auto (P)
 Now, using your Checkpoint C as starting point, update your design with a digital potentiometer.  Use the PWM knob press to take the measurement from your pi.  Display the value on the LCD.  
 - Eagle Schematic
 - Characterization table for your Ohmmeter with digital potentiometer.
-- Photo of your LCD reading values for 100, 5K, and 10K Ohms
+- Photo of your LCD reading values for 500, 5K, and 10K Ohms
 
 ## Voltmeter (P)
-For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 3.75 V (positive only). Your team will need to build an analog to digital converter (ADC) to achieve this.  Design a stand-alone Voltmeter.
+For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 3.33 V (positive only). Your team will need to build an analog to digital converter (ADC) to achieve this.  Design a stand-alone Voltmeter.
 - Eagle Schematic
 - ADC table of Analog voltage to digital values
-- Multisim simulation of your design working with 0, 1, 2, 3, and 4 volts (yes, 4V is higher than 3.75).
+- Multisim simulation of your design working with 0, 1, 2, 3, and 4 volts (yes, 4V is higher than 3.33).
 - Use your PWM knob press to take measurement from PI.  Display the result on the LCD.
 - Provide photos of your results for the 5 0, 1, 2, 3, and 4 volts
 
