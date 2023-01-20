@@ -13,6 +13,7 @@ Now, using your Checkpoint C as starting point, update your design with a digita
 - Eagle Schematic
 - Characterization table for your Ohmmeter with digital potentiometer.
 - Photo of your LCD reading values for 500, 5K, and 10K Ohms
+- Commited codd on github
 
 ## Voltmeter (P)
 For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 3.33 V (positive only). Your team will need to build an analog to digital converter (ADC) to achieve this.  Design a stand-alone Voltmeter.
