@@ -1,15 +1,18 @@
 ## Deliverable 8
-For this deliverable your group will complete the ohmmeter component of the function generator.
+For this deliverable your group will complete the square wave generator.
 
 ## Square Wave Model
+Using the PI, generate a square wave with adjustable amplitude within the range of +/- 5Volts.  The frequency should also be adjustable from 100Hz-10KHz.  The square wave should be centered at 0V for the x-axis.  Use your PWM know and LCD UI to control the amplitude and the frequency (See project doc).  As usual, you must have a schematic and simulation for your design in stand-alone form.
+- Eagle Schematic of stand-alone (pdf)
+- Simulation from Multisim (photo)
+- Stand-alone result with lab function generator as input (this will only test your amplitude gain part of your circuit).  Photo
+- Photo of PI generating square waves (show LCD output and oscilloscope shot): Amplitude: +/- 2V, and 4V.  Frequency: 100Hz, 5000Hz, 10Khz.  (This is 6 total points)
+- You should have commented code on Github.
 
-
-## Lecture Test
 
 # Summary
 
 In summary, for this week you need to:
 
 1. Square Wave Model
-2. Complete the lecture test on eLC.
-3. Update your User Manual and Technical Documentation with your findings.
+2. Update your User Manual and Technical Documentation with your findings.
