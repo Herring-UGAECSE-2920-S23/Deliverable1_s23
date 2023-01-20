@@ -23,6 +23,7 @@ For this Deliverable your team will be required to design a voltmeter that is ab
 - Provide photos of your results for the 5 0, 1, 2, 3, and 4 volts
 
 ## Negative Voltage
+By now your Negative voltage should be working.  Provide photo evidence of this.
 If you have not shown a working negative voltage reference, you must still do so in order to get the +12V DC supply.
 
 
@@ -33,4 +34,5 @@ In summary, for this week you need to:
 1. **P**: Ohmmeter Manual
 2. **P**: Ohmmeter Auto
 3. **P**: DC Voltage Supply
-4. Update your User Manual and Technical Documentation with your findings.
+4. **P**: Negative Voltage
+5. Update your User Manual and Technical Documentation with your findings.
