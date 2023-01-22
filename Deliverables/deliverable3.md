@@ -16,7 +16,7 @@ The Raspberry PI GPIOS are the primary way to blow up your PI.  They default to 
 - https://roboticsbackend.com/raspberry-pi-3-pins/
 - https://roboticsbackend.com/raspberry-pi-gpios-default-state/
 
-As you begin to use your Raspberry Pi, you'll need to demonstrate that you can access and use a GPIO as both input and output. Your Raspberry Pi should have come with a breadboard, some jumper wires, and some resistors, LEDs, and a DIP switch for this demonstration.
+As you begin to use your Raspberry Pi, you'll need to demonstrate that you can access and use a GPIO as both input and output. Your Raspberry Pi should have come with a breadboard, some jumper wires, and some resistors, LEDs, and a rotary encoder for this demonstration.
 
 **Deliverable:** To demonstrate both input and output functionality, use the guides below to create a Python script that does the following: pressing in on the rotary encoder toggles an LED on or off. Upload a short video (10 seconds or less) on eLC that shows this in action.
 
