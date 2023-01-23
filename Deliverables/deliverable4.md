@@ -20,7 +20,7 @@ This deliverable will be very helpful as you progress through this project and a
  ## NOTE: ALL DIAGRAMS MUST BE PROFESSIONALLY DONE.  USE A TOOL FOR THIS AND NOT PEN AND PAPER
  
  ## Next Design Steps
- Although this is not a deliverable this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first check point refer to the [README](../README.md), [Deliverable 5](https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Deliverables/deliverable5.md), and the project description on ELC. Make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 aka User Interface Working.
+ Although this is not a deliverable, this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first letter checkpoint (refer to the [README](../README.md), [Deliverable 5](https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Deliverables/deliverable5.md), and the project description on ELC). Make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 (aka your User Interface is working).
  
  
 
@@ -30,5 +30,6 @@ In summary, for this week you need to:
 
 1. **P:** Complete the Eagle Assignment
 2. **P:** Draw and describe your power diagram and program GPIOs
+3. Remember that is a CATME survey coming soon; be sure to look out for an email.
 
-3. Update your User Manual and Technical Documentation with your findings.
+Update your User Manual and Technical Documentation with your findings.
