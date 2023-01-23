@@ -30,6 +30,8 @@ In summary, for this week you need to:
 
 1. **P:** Complete the Eagle Assignment
 2. **P:** Draw and describe your power diagram and program GPIOs
-3. Remember that is a CATME survey coming soon; be sure to look out for an email.
+3. Remember that there is a CATME survey coming soon; be sure to look out for an email.
+4. Update your User Manual and Technical Documentation with your findings.
 
-Update your User Manual and Technical Documentation with your findings.
+When all deliverables are finished, use the template to submit to ELC before the deadline. THERE SHOULD BE ONLY 1 SUBMISSION PER GROUP. Videos can be attached separately.
+
