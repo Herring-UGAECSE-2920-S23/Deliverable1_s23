@@ -33,7 +33,7 @@ For this section you will need to characterize digital potientometers to use for
 - Include documentation and code showing how you would program the potentiometer to multiple values (100,1000,5000,10000 Ohms). 
 - The datasheet for the MCP digital potentiometers can be found [here](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/22060b.pdf).
 
-## Datasheet Quiz (P)
+## Datasheet Quiz (Individual Grade Item)
 
 There is a quiz on ELC that will assess your ability to read and interpret datasheets. Please review the lecture slides and posted resources in order to prepare.
 The format of the quiz is as follows: 
