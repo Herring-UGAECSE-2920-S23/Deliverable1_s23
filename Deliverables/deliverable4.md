@@ -7,7 +7,7 @@ For this deliverable, your group will need to download both the schematic and bo
 ## GPIO Diagram and Power Diagram (P)
 This deliverable will be very helpful as you progress through this project and add more parts, use more GPIOs and start to use your raspberry pi to its full potential.
 
-- For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
+- For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project, default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
  
 - For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
           1. Name of the Device
