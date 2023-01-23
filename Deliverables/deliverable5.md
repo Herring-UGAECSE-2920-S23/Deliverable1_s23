@@ -3,7 +3,7 @@
 For deliverable 5, you will be taking on your first checkpoint. Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) and the project description on ELC for more information. 
 
 # User Interface (D)
-This first checkpoint requires your team to have the beginnings of the user interface for your function generator fully set up. This includes showing the knobs make a change on the display and high and low speed. You will do this to program a resistance on the digital potentiometers.
+This first checkpoint requires your team to have the beginnings of the user interface for your function generator fully set up. This includes showing the knobs make a change on the display, as well as high and low speed to toggle between values. You will do this to program a resistance on the digital potentiometers.
 - In regards to the DFRobot LCD screen, the buttons are not to be used. Selection within the UI should be done using the rotary encoder only.
 - You can use the UI check code to characterize the potentiometer (above) if you'd like
 - The knob will control the resistance value desired from the digital potentiometer.
