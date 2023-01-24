@@ -18,7 +18,7 @@ The Raspberry PI GPIOS are the primary way to blow up your PI.  They default to 
 
 As you begin to use your Raspberry Pi, you'll need to demonstrate that you can access and use a GPIO as both input and output. Your Raspberry Pi should have come with a breadboard, some jumper wires, and some resistors, LEDs, and a rotary encoder for this demonstration.
 
-**Deliverable:** To demonstrate both input and output functionality, use the guides below to create a Python script that does the following: pressing in on the rotary encoder toggles (meaning button press) an LED on or off. Upload a short video (10 seconds or less) on eLC that shows this in action.
+**Deliverable:** To demonstrate both input and output functionality, use the guides below to create a Python script that does the following: pressing in on the rotary encoder toggles an LED on or off (meaning once the encoder is pressed and your finger is removed, the LED stays on until you press the encoder again). Upload a short video (10 seconds or less) on eLC that shows this in action.
 
 For both of these you'll need to use the [`pigpio` Python library](http://abyz.me.uk/rpi/pigpio/index.html#Type_3), with its API [Reference](http://abyz.me.uk/rpi/pigpio/python.html) and some [example code](http://abyz.me.uk/rpi/pigpio/examples.html#Python%20code). Again, make sure to use a current-limiting resistor when using the GPIO as output if you are not using the PHP (Pi Hat Protector), and enable the [Pull-Up or Pull-Down](https://en.wikipedia.org/wiki/Pull-up_resistor) feature on the pin when using it as input. (Note: Make sure to use the `pinout` command in a terminal to check wiring and pin numbers).
 
@@ -44,7 +44,9 @@ The format of the quiz is as follows:
 
 
 ## Pi-Protection Hat (PPH) (D)
-- Verify your team's PPH.  It must pass the verification check. This will be done in class on Wednesday.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts.
+- Verify your team's PPH.  It must pass the verification check. This will be done in class on Wednesday.  We will run SW to check each GPIO on the PPH.  We will check ground and power shorts. 
+
+### Note: ALWAYS make sure the Pi is disconnected from power when making hardware changes, whether that be adding/removing the PHP or making any other adjustments.
 
 # Summary
 
