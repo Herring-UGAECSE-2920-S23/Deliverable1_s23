@@ -6,6 +6,7 @@ For this assignment, your group will be making ALL necessary corrections to the 
 We typically ask for one file upload per deliverable, but these will have to be loaded separately for a total of three attachments in this deliverable. Make a list of your corrections in your weekly deliverable report.
 
 
+
 ## GPIO Diagram and Power Diagram (P)
 This deliverable will be very helpful as you progress through this project and add more parts, use more GPIOs and start to use your raspberry pi to its full potential.
 
