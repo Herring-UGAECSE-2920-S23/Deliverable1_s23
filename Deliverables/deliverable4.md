@@ -3,7 +3,7 @@
 
 ## Eagle Assignment (P)
 For this assignment, your group will be making ALL necessary corrections to the attached files. This will require the use of EAGLE, so be sure at least one group member has this software downloaded with an Autodesk account connected to your UGA email. Download the free version of the software and login with the student account to access all necessary features to edit. You will need to download both the board and schematic files and make all corrections. There are at least 5, but no more than 10. This is an edited version of the Pi Hat Protection board you soldered. Before submission, be sure to use the design rule check to ensure there are no errors left. Be thorough with this assignment and reupload your corrected files with the names edited to have your group number in this format: GROUPx_GPIO_Hat_v4.0_assignment.brd & GROUPx_GPIO_Hat_v4.0_assignment.sch
-We typically ask for one file upload per deliverable, but these will have to be loaded separately for a total of three attachments in this deliverable. Make a list of your corrections in your weekly deliverable report.
+We typically ask for one file upload per deliverable, but these will have to be loaded separately for a total of three attachments in this deliverable. Make a list of your corrections in your weekly deliverable report. The files are in the resources folder.
 
 
 
