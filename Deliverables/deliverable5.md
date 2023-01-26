@@ -1,23 +1,22 @@
 # Deliverable 5
 
+CONGRATULATIONS, you've reached the first grade-level checkpoint.  This is the checkpoint to be considered for "C".  Please review what this means on the syllabus and from your instructors.
+
 For deliverable 5, you will be taking on your first checkpoint. Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) and the project description on ELC for more information. 
 
 # User Interface (D)
-This first checkpoint requires your team to have the beginnings of the user interface for your function generator fully set up. This includes showing the knobs make a change on the display, as well as high and low speed to toggle between values. You will do this to program a resistance on the digital potentiometers.
-- In regards to the DFRobot LCD screen, the buttons are not to be used. Selection within the UI should be done using the rotary encoder only.
-- You can use the UI check code to characterize the potentiometer (above) if you'd like
-- The knob will control the resistance value desired from the digital potentiometer.
-- Your team must have a “slow” and a “fast” detector for the knob spin.  For slow, increment the value shown to the user by “10Ω”.  For fast, increment the value shown to the user by “100Ω”.  Your team must use the final value to program the digital potentiometer to change to this value as a resistance.  Use the push button feature on the knob to set the value and program the potentiometer.  Valid values will be 100 to 10,000 Ohms.
-- The output resistance of the potentiometer should match your selected value.  
-- Your team will also need to demonstrate both potentiometers on the IC chip working individually.  Use your LCD display and knob input to choose which potentiometer to program.  You must be able to program each independently without changing the other.  For example, you should have a first screen to select which potentiometer to program (Knob spin chooses the potentiometer and Knob press will select the potentiometer and go to the value entry screen).  Next screen for selected potentiometer will change the value as described above.  Finally have a way to go back to the first screen.  A three (3) second or longer knob press will take you back to the potentiometer selection screen.
-- Your program should allow for independently changing each potentiometer without a reset/reboot of the system.  That is, one or both potentiometers should be repeatably changeable.
 
-This first checkpoint requires your team to have the user interface for your potentiometer value entry fully set up. This includes showing the knobs make a change on the display, high and low speed, choosing the potentimeter to program, programming the chosen potentiometer, and returning to top level input screen.
+Please refer to the project description document on ELC for the complete descripton and requirements for this checkpoint.
 
 # Summary
 
-In summary, for this week you need to:
+In summary, for this week:
 
-1. **D:** Have the user interface fully operating.
 
-2. Update your User Manual and Technical Documentation with your findings.
+1.	You will demonstrate your results in class.
+2.	We will check Github for commits and to look over code.  So, name your checkpoint “C” code so it is easily identifiable.
+3.	You will a upload a single pdf document which includes: a) a brief summary of roles/responsibilities leading up to this checkpoint, and b) a table/spreadsheet showing the characteristics of your solution for 100, 1000, 5000, and 10,000 Ohms.
+
+
+
+As always, update your User Manual and Technical Documentation with your findings.
