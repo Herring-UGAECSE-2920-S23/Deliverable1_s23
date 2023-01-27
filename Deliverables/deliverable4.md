@@ -17,10 +17,10 @@ This deliverable will be very helpful as you progress through this project and a
           2. Pins that require power(voltage requirement and current requirement)
           3. Name of source delivering the required power (voltage and current)
           
- Along with the listing is a diagram (drawing) showing each source and each load with the voltage distribution drawn. This should be included in your documentation.
- We don't expect this to be a final design, of course.  But we provided a kit of parts to you. Each IC/component that requires power should be on your list above.
+ Whichever form that you choose to use, it must show each source and each active load with the voltage distribution in detail. This should be included in your documentation.
+ We don't expect this to be a final design, of course.  But we provided a kit of parts to you. Each IC/component that requires power should be on your list above.  However, in later documentation, you will need a complete schematic showing your design; therefore, this is a first step towards that objective.
  
- ## NOTE: ALL DIAGRAMS MUST BE PROFESSIONALLY DONE.  USE A TOOL FOR THIS AND NOT PEN AND PAPER
+ ## NOTE: ALL SUBMISSIONS MUST BE PROFESSIONALLY DONE.  USE A TOOL (Excel, Eagle, PPT, etc...) FOR THIS AND NOT PEN AND PAPER
  
  ## Next Design Steps
  Although this is not a deliverable, this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first letter checkpoint (refer to the [README](../README.md), [Deliverable 5](https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Deliverables/deliverable5.md), and the project description on ELC). Make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 (aka your User Interface is working).
