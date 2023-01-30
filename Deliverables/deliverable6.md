@@ -16,11 +16,13 @@ In order to power many of the active components in your design (Opamps, for exam
 - Photo of + and - voltages from your stand-alone design
 
 
-
 ## ADC (P)
 The ADC is integral to this design.  For this deliverable provide an ADC design of at least 4-bits.  You must provide a schematic (not hand drawn) and simulation model.  This is a stand-alone design and does not need to be attached to the PI.
-- Schematic (pdf form)
-- Multisim output (photo)
+
+\*Note: this deliverable requires a simulation AND a schematic drawn in a PCB design software. This can either be done in 2 separate files. If you choose, however, Altium has a built in SPICE simulator, allowing it to be done in one file.
+
+- Schematic (pdf of PCB design Schematic)
+- Multisim output (photo of outputs in progress pdf and simulation file uploaded separately)
 
 ## Recheck Deliverable 5
 If you have not passed the Chekpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your project to class if you wish you get the checkpoint rechecked.
@@ -34,6 +36,6 @@ In summary, for this week you need to:
 
 2. **P**: 4-bit ADC design
 
-3. **P**: PCB Schematic.
+3. **P**: PCB Schematic for both negative voltage **AND** 4-bit ADC
 
 4. Update your User Manual and Technical Documentation with your findings.
