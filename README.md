@@ -98,6 +98,4 @@ In order to encourage you to learn the useful skill of managing and using a Git/
 
 ### Class Discussion
 
-To facilitate class discussions, we will be using this repository’s **Issues** page to post comments or questions. This is a great place to ask general questions pertaining to the course and project. You are encouraged to join the discussion but just remember to abide by the “Collaboration Policy” detailed in the course syllabus. 
-
-To post a question or comment, see the Issues link at the top of the repository or follow this [link](https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/issues). The submission process is self explanatory. 
+To facilitate class discussions, we will be using eLC's **Discussion** page to post comments or questions. This is a great place to ask general questions pertaining to the course and project. You are encouraged to join the discussion but just remember to abide by the “Collaboration Policy” detailed in the course syllabus. 
