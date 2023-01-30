@@ -6,7 +6,7 @@ For deliverable 5, you will be taking on your first checkpoint. Below you will f
 
 # User Interface (D)
 
-Please refer to the project description document on ELC for the complete descripton and requirements for this checkpoint.
+Please refer to the project description document on ELC for the complete descripton and requirements for this checkpoint. We will start checking the results in class on *Monday 2/6/23*. Groups who volunteer to go on Monday will be graded with more leniency.
 
 # Summary
 
