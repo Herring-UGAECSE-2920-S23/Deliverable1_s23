@@ -30,9 +30,9 @@ If you have not passed the Chekpoint from last week you will have an oppurtunity
 
 In summary, for this week you need to:
 
-1. **P**: Negative voltage design simulation progress.
+1. **P**: Negative voltage design simulation (screenshots on deliverable pdf AND simulation files)
 
-2. **P**: 4-bit ADC design
+2. **P**: 4-bit ADC design (screenshots on deliverable pdf AND simulation files)
 
 3. **P**: PCB Schematic for both negative voltage **AND** 4-bit ADC
 
