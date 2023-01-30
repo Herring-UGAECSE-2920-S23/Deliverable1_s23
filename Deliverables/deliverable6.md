@@ -2,24 +2,27 @@
 # Deliverable 6
 For deliverable 6, you will begin moving forward from your first checkpoint into the function generator.  As always, your weekly team status is required.
 
+## PCB Schematic (P)
+Review the lecture slides for starting points on working with Eagle/Altium. Start getting familiar with the software this week, and begin the circuit schematic by adding the circuitry your team used to create the Negative Voltage and ADC.
+- PDF output of schmatics for ADC and Negative Voltage.  These are two separate files.
+
 ## Negative Voltage Simulation (P)
-In order to power many of the active components in your design (Opamps, for example), you will need a negative voltage.  For this deliverable, provide a schematic (not hand drawn) AND simulation of your design from multisim, LTSpice, Simulink, Altium, etc.  Your DC voltage available to you is from the +12V DC supply.  However, we will not provide the +12V supply until you show a working Negative voltage reference; therefore, you will need to show a stand-alone circuit working with your +12V DC source coming from a lab power supply. Your + and - reference should be around +/- 5 to 6 volts.  
-- Schematic (pdf form)
+In order to power many of the active components in your design (Opamps, for example), you will need a negative voltage.  For this deliverable, provide a schematic (digitally drawn in your chosen PCB software) AND a simulation of your design from multisim, LTSpice, Simulink, Altium, etc.  Assume the DC voltage input that is available to you is from the +12V DC supply (we will not provide the +12V supply until you show a working Negative voltage reference); therefore, you will need to show a **stand-alone** circuit working with your +12V DC source coming from a lab power supply. Your V+ and V- reference point should be around +/- 6 volts. 
+\*Note: this deliverable requires a simulation AND a schematic drawn in a PCB design software. This can either be done in 2 separate files. If you choose, however, Altium has a built in SPICE simulator, allowing it to be done in one file.
+
+- Schematic (pdf of PCB design Schematic)
 - Multisim output (photo of outputs in progress pdf and simulation file uploaded separately)
 - Photo of + and - voltages from your stand-alone design
+
+
 
 ## ADC (P)
 The ADC is integral to this design.  For this deliverable provide an ADC design of at least 4-bits.  You must provide a schematic (not hand drawn) and simulation model.  This is a stand-alone design and does not need to be attached to the PI.
 - Schematic (pdf form)
 - Multisim output (photo)
 
-## PCB Schematic (P)
-Review the lecture slides for starting points on working with Eagle/Altium. Get familiar with the software this week, and begin the schematic by adding the circuitry your team used to create the Negative Voltage and ADC.
-- PDF output of schmatics for ADC and Negative Voltage.  These are two separate files.
-
-
 ## Recheck Deliverable 5
-If you have not passed the Chekpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your car to class if you wish you get the checkpoint rechecked.
+If you have not passed the Chekpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your project to class if you wish you get the checkpoint rechecked.
 
 
 # Summary
