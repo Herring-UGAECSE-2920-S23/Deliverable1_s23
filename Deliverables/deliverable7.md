@@ -9,11 +9,12 @@ The Ohmmeter should measure 500-10KOhms.  The design must include an indicator f
 - Photo of your design working at 500, 5K, and 10K Ohms with manual potentiometer
 
 ## Ohmmeter Auto (P)
-Now, using your Checkpoint C as starting point, update your design with a digital potentiometer.  Use the PWM knob press to take the measurement from your pi.  Display the value on the LCD.  
+Now, using your Checkpoint C as starting point and your manual ohmeter design, update your ohmmeter design with a digital potentiometer.  Use the PWM knob press to take the resistance measurement from your pi.  Display the value on the LCD. 
+
 - Eagle Schematic
 - Characterization table for your Ohmmeter with digital potentiometer.
 - Photo of your LCD reading values for 500, 5K, and 10K Ohms
-- Commited codd on github
+- Commited code on github
 
 ## Voltmeter (P)
 For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 3.33 V (positive only). Your team will need to build an analog to digital converter (ADC) to achieve this.  Design a stand-alone Voltmeter.
