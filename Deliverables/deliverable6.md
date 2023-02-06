@@ -14,7 +14,6 @@ It is often a good idea to try more than one solution.  You do not need more tha
 These do not need to be completely working.  You should be showing good progress.
 - Schematic (pdf of PCB design Schematic)
 - Multisim output (photo of outputs in progress pdf and simulation file uploaded separately)
-- Photo of + and - voltages from your stand-alone design
 
 
 ## ADC (P)
