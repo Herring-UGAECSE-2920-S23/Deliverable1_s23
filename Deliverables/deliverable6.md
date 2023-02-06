@@ -5,7 +5,7 @@ For deliverable 6, you will begin moving forward from your first checkpoint into
 ## PCB Schematic (P)
 Review the lecture slides for starting points on working with Eagle/Altium. Start getting familiar with the software this week, and begin the circuit schematic by adding the circuitry your team used to create the Negative Voltage and ADC.
 - PDF output of schematics for ADC and Negative Voltage.  These are two separate files.
-- We don't expect these to be complete/finished designs.  This is a (P) checkpoint.  Whatever you have for the Negative Voltage Simulation and ADC for this checkpoint should be represented by a schematic (not layout).
+- We don't expect these to be complete/finished designs.  This is a (P) checkpoint.  Whatever you have for the Negative Voltage Simulation and ADC for this checkpoint should be represented by a schematic (no board layout needed).
 
 ## Negative Voltage Simulation (P)
 In order to power many of the active components in your design (Opamps, for example), you will need a negative voltage.  For this deliverable, provide a schematic (digitally drawn in your chosen PCB software) AND a simulation of your design from multisim, LTSpice, Simulink, Altium, etc.  Assume the DC voltage input that is available to you is from the +12V DC supply (we will not provide the +12V supply until you show a working Negative voltage reference); therefore, you will need to show a **stand-alone** circuit working with your +12V DC source coming from a lab power supply. Your V+ and V- reference point should be around +/- 6 volts. 
