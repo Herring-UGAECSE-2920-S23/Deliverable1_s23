@@ -25,7 +25,7 @@ The ADC is integral to this design.  For this deliverable provide an ADC design 
 >***Note: These deliverables require a both simulation AND a schematic drawn in a PCB design software. This can either be done in 2 separate files, or if you choose, Altium has a built in SPICE simulator, allowing it to be done in one file.***
 
 ## Recheck Deliverable 5
-If you have not passed the Chekpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your project to class if you wish you get the checkpoint rechecked.
+If you have not passed the Checkpoint from last week you will have an opportunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your project to class if you wish you get the checkpoint rechecked.
 
 
 # Summary
