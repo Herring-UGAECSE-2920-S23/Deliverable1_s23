@@ -2,7 +2,7 @@
 In this deliverable you will begin creating the DC Voltage supply for your function generator and the ohmmeter.  You will continue your work on the ADC and Negative reference.  If you have not completed the Negative reference, you may use +/- voltage from lab dc supply to make progress.
 
 ## Ohmmeter Manual (P)
-Using something like a Wheatstone bridge (Hint-Hint), create a stand-alone Ohmmeter.  Show your Ohmmeter working either with a manual potentiometer.
+Using something like a Wheatstone bridge (Hint-Hint), create a stand-alone Ohmmeter.  Show your Ohmmeter working with a manual potentiometer.
 The Ohmmeter should measure 500-10KOhms.  The design must include an indicator for the measurement point (perhaps a comparator of some sort). Characterize your Ohmmeter.  That is, what is the measured resistance vs the actual resistance for 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, and 10K Ohms. Provide:
 - Eagle Schematic of your design
 - Characterization table for your Ohmmeter with manual potentiometer
@@ -24,7 +24,7 @@ For this Deliverable your team will be required to design a voltmeter that is ab
 - Use your PWM knob press to take measurement from PI.  Display the result on the LCD.
 - Provide photos of your results for the 5 0, 1, 2, 3, and 4 volts
 
-## Negative Voltage
+## Negative Voltage (P)
 By now your Negative voltage should be working.  Provide photo evidence of this.
 If you have not shown a working negative voltage reference, you must still do so in order to get the +12V DC supply.
 
