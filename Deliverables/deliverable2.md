@@ -42,6 +42,22 @@ Verify your soldering job by checking for continuity (Does GPIO2 go to GPIO2*, f
 
 Finally, you'll need to go through the Raspberry Pi setup documentation found [here](setup/pi_setup.md). It will guide you through setting up the Pi and getting all of the Python dependencies and environment set up. It will also link to helpful documentation for how to work on the Raspberry Pi, remotely or otherwise.  When finished, document this in your team P devliverable.  Use the standard template on ELC.  
 
+## Raspberry PI RUNNING STAND ALONE
+# Launching Python Scripts When Raspberry Pi Boots
+
+An important aspect for making sure your in-person demos go smoothly is to limit the setup required to perform the demo. Instead of running your script through an SSH terminal or, even worse, bringing in a keyboard/mouse/monitor just to run a script, you should follow the guides given below to configure your Etch-A-Sketch, Math Mode, GCode Mode, or "main" scripts to run on startup. Whenever you complete your demo and need to start work on the next portion of the project, you should undo/disable the automatic startup to ensure your program does not run when you don't intend it to.
+
+## Setting up the launch on boot
+
+Since linux (the operating system that Raspberry Pi OS is based on) is used a ton in the datacenter/server world, it comes with a lot of handy features built right in. One of these features/programs is called [`cron` or `cron job`](https://en.wikipedia.org/wiki/Cron), which lets you schedule when to run a program/script on your Raspberry Pi.
+
+you can follow [this guide](https://www.instructables.com/Raspberry-Pi-Launch-Python-script-on-startup/) to get a general idea of how `cron` works, and how you can use it to launch the Python scripts for your various demos. 
+
+## Disabling the launch on boot
+
+When you're done with your demo and are ready to resume development on your plotter, you'll need to disable the `crontab` entry you made in the previous section. To do this, you'll need to open your `crontab` file by executing `crontab -e` (crontab edit), then you'll disable your previously entered entry (which should start with `@reboot` and contain your launcher script) by commenting it out. Much like Python, the line comment character for the crontab file is `#`, simply put a `#` at the beginning of the entry, save the file, and reboot.
+
+
 ## Practice Committing Changes (P)
 
 After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. NOTE:  Everyone on the team MUST have at least one commit.  Yes, roles will develop throughout the semester, but everyone on the team should be familiar with Github.  When finished, document this in your team P deliverable.  Use the standard template on ELC. 
