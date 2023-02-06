@@ -4,7 +4,7 @@ For deliverable 6, you will begin moving forward from your first checkpoint into
 
 ## PCB Schematic (P)
 Review the lecture slides for starting points on working with Eagle/Altium. Start getting familiar with the software this week, and begin the circuit schematic by adding the circuitry your team used to create the Negative Voltage and ADC.
-- PDF output of schmatics for ADC and Negative Voltage.  These are two separate files.
+- PDF output of schematics for ADC and Negative Voltage.  These are two separate files.
 - We don't expect these to be complete/finished designs.  This is a (P) checkpoint.  Whatever you have for the Negative Voltage Simulation and ADC for this checkpoint should be represented by a schematic (not layout).
 
 ## Negative Voltage Simulation (P)
