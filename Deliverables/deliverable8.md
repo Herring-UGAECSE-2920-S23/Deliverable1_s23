@@ -9,10 +9,13 @@ Using the PI, generate a square wave with adjustable amplitude within the range 
 - Photo of PI generating square waves (show LCD output and oscilloscope shot): Amplitude: +/- 2V, and 4V.  Frequency: 100Hz, 5000Hz, 10Khz.  (This is 6 total points)
 - You should have commented code on Github.
 
+**If your negative reference is not working, you may use a lab power supply.**
+
 
 # Summary
 
 In summary, for this week you need to:
 
-1. Square Wave Model
-2. Update your User Manual and Technical Documentation with your findings.
+1. Make progress on your square wave design
+2. Include the items described above
+3. Update your User Manual and Technical Documentation with your findings.
