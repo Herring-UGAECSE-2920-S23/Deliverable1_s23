@@ -1,7 +1,7 @@
 # Deliverable 7
 In this deliverable you will begin creating the DC Voltage supply for your function generator and the ohmmeter.  You will continue your work on the ADC and Negative reference.  If you have not completed the Negative reference, you may use +/- voltage from lab dc supply to make progress.
 
-## NOTE: you may use a lab DC supply for your +/- reference for these (P) deliverables (not the negative voltage (P), of course).
+## NOTE: If needed, you may use a lab DC supply for your +/- reference for these (P) deliverables (not the negative voltage (P), of course).
 
 ## Ohmmeter Manual (P)
 Using something like a Wheatstone bridge (Hint-Hint), create a stand-alone Ohmmeter.  Show your Ohmmeter working with a **manual** potentiometer.
