@@ -38,4 +38,6 @@ In summary, for this week you need to:
 
 3. **P**: PCB Schematic for both negative voltage **AND** 4-bit ADC
 
-4. Update your User Manual and Technical Documentation with your findings.
+4. **P**:  In your team's weekly PDF documentmentation, include: 1) a paragraph description of how your team's negative voltage simulation works, 2) a paragraph description of how your team's ADC works, and 3) a paragraph detailing some of the design decisions your team needed to make in designing the schematic.  Equations and figures always welcomed in your descriptions.  
+
+5. Update your User Manual and Technical Documentation with your findings.
