@@ -41,4 +41,4 @@ In summary, for this week you need to:
 2. **P**: Ohmmeter Auto
 3. **P**: DC Voltage Supply
 4. **P**: Negative Voltage
-5. Update your User Manual and Technical Documentation with your findings.
+5. Update your User Manual and Technical Documentation with your findings and explanation of **each** of the 4 (P) deliverables.
