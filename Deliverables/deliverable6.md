@@ -17,7 +17,7 @@ These do not need to be completely working.  You should be showing good progress
 
 
 ## ADC (P)
-The ADC is integral to this design.  For this deliverable provide an ADC design of at least 4-bits.  You must provide a schematic (not hand drawn) and simulation model.  This is a stand-alone design and does not need to be attached to the PI.  
+The ADC is integral to this design.  For this deliverable provide an ADC design of at least 4-bits.  You must provide a schematic (not hand drawn) and simulation model.  This is a stand-alone design and does not need to be attached to the PI.  Note, you do not have enough GPIOs for a 16 GPIO flash ADC.  So you will need to think of other alternatives, perhaps.
 
 - Schematic (pdf of PCB design Schematic)
 - Multisim output (photo of outputs in progress pdf and simulation file uploaded separately)
