@@ -24,7 +24,7 @@ For this Deliverable your team will be required to design a voltmeter that is ab
 - ADC table of Analog voltage to digital values
 - Multisim simulation of your design working with 0, 1, 2, 3, and 4 volts (yes, 4V is higher than 3.33).  You do not need to measure negative voltage!
 - Use your PWM knob press to take measurement from PI.  Display the result on the LCD.
-- Provide photos of your results for the 5 0, 1, 2, 3, and 4 volts
+- Provide photos of your results for the 0, 1, 2, 3, and 4 volts
 - Commited code on github
 
 ## Negative Voltage (P)
