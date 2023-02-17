@@ -5,7 +5,7 @@ In this deliverable you will begin creating the DC Voltage supply for your funct
 
 ## Ohmmeter Manual (P)
 Using something like a Wheatstone bridge (Hint-Hint), create a stand-alone Ohmmeter.  Show your Ohmmeter working with a **manual** potentiometer.
-The Ohmmeter should measure 500-10KOhms.  The design must include an indicator for the measurement point (perhaps a comparator of some sort). Characterize your Ohmmeter.  That is, what is the measured resistance vs the actual resistance for 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, and 10K Ohms. Provide:
+The Ohmmeter should measure 500-10KOhms.  The design must include an indicator for the measurement point (perhaps a comparator of some sort, or a direct connection to the banana plugs you were given). Characterize your Ohmmeter.  That is, what is the measured resistance vs the actual resistance for 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, and 10K Ohms. Provide:
 - Eagle Schematic of your design
 - Characterization table for your Ohmmeter with manual potentiometer
 - Photo of your design working at 500, 5K, and 10K Ohms with manual potentiometer
