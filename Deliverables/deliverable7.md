@@ -19,7 +19,7 @@ Now, using your Checkpoint C as starting point and your manual ohmmeter design, 
 - Commited code on github
 
 ## Voltmeter (P)
-For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 3.33 V (positive only). Your team will need to build an analog to digital converter (ADC) to achieve this.  Design a stand-alone Voltmeter.
+For this Deliverable your team will be required to design a voltmeter that is able to measure a power supply. The voltmeter should have a quarter volt resolution and measure from 0 - 4V (positive only). Your team will need to build an analog to digital converter (ADC) to achieve this.  Design a stand-alone Voltmeter.
 - Eagle Schematic
 - ADC table of Analog voltage to digital values
 - Multisim simulation of your design working with 0, 1, 2, 3, and 4 volts (yes, 4V is higher than 3.33).  You do not need to measure negative voltage!
