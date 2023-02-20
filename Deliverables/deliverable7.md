@@ -28,9 +28,9 @@ For this Deliverable your team will be required to design a voltmeter that is ab
 - Commited code on github
 
 ## Negative Voltage (P)
-By now your Negative voltage should be working.  Provide photo evidence of this.
+By now your Negative voltage should be working using hardware.  Provide photo evidence of this.
 You should also have final simulation and schematic matching your design.
-If you have not shown a working negative voltage reference, you must still do so in order to get the +12V DC supply.
+If you have not shown a working negative voltage reference, you must still do so in order to get the +12V DC supply. This should be tested with a ~5k load on both the +6V and -6V, to prove its robustness.
 
 
 # Summary
