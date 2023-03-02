@@ -6,7 +6,7 @@ Using the PI, generate a square wave with fixed amplitude of +/- 5Volts centered
 - Eagle Schematic of stand-alone (pdf)
 - Simulation from Multisim (photo)
 - Stand-alone result with lab function generator as input (this will only test your amplitude gain part of your circuit).  Photo
-- Now using your gain circuit add your RP4 and UI wizardry to complete the (P) deliverable.  Photo of PI generating square waves (show LCD output and oscilloscope shot): Amplitude: +/- 2V, and +/- 5V.  Frequency: 100Hz, 5000Hz, 10Khz.  (This is 6 total points)
+- Now using your gain circuit add your RP4 and UI wizardry to complete the (P) deliverable.  Photo of PI generating square waves (show LCD output and oscilloscope shot): Amplitude: +/- 5V.  Frequency: 100Hz, 5000Hz, 10Khz.  (This is 6 total points)
 - You should have commented code on Github.
 
 **If your negative reference is not working, you may use a lab power supply.**
