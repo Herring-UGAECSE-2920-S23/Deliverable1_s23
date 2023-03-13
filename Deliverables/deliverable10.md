@@ -7,7 +7,7 @@ Amplitude: 0-5V (positive only) with 1/4 volt resolution.
 
 ## PCB Ready to Order (P)
 Your team will need to place and route your PCB with circuitry through checkpoint B this week. It must be complete enough to place an order (in theory). Of course, if your team wants to order boards, it is up to you. 
-All Design Rule Checks (DRC) in the software must pass. Please use JLCPCB design rules for you respective number of layers(here and here). Justify this number of layers and elaborate on any other interest aspects of your design in you documentation.
+All Design Rule Checks (DRC) in the software must pass. Please use JLCPCB design rules for you respective number of layers ([2-LayerDRC](https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/jlcpcb2layer.dru) or [4-LayerDRC](https://github.com/Herring-UGAECSE-2920-S23/Deliverables_S2023/blob/main/Resources/jlcpcb4layer.dru)). Justify this number of layers and elaborate on any other interest aspects of your design in you documentation.
 
 # Summary
 
