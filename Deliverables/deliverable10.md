@@ -7,7 +7,7 @@ Amplitude: 0-5V (positive only) with 1/4 volt resolution.
 
 ## PCB Ready to Order (P)
 Your team will need to place and route your PCB with circuitry through checkpoint B this week. It must be complete enough to place an order (in theory). Of course, if your team wants to order boards, it is up to you. 
-All DRC checks in Eagle pass.
+All Design Rule Checks (DRC) in the software must pass.
 All DRC checks pass in PCB fab tool from JLCPCB.  Show a photo in cart to checkout (you do not need to buy).  Justify your number of layers and elaborate on any other interest aspects of your design.
 
 # Summary
