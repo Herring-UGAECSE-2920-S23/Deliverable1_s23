@@ -1,12 +1,12 @@
 ## Deliverable 12
 
-## Complete Sine Wave (D)
+Please check the requirement on the ELC project document.
 
-## PCB Complete (D)
+
 
 # Summary
 
 In summary, for this week you need to:
 
-1. **D**: Complete sine wave
+1. **Checkpoint C
 2. Update your User Manual and Technical Documentation with your findings.
