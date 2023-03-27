@@ -8,5 +8,5 @@ Please check the requirement on the ELC project document.
 
 In summary, for this week you need to:
 
-1. **Checkpoint C
+1. **Checkpoint A
 2. Update your User Manual and Technical Documentation with your findings.
