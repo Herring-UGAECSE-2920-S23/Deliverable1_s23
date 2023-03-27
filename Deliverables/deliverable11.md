@@ -14,6 +14,6 @@ You should be able to measure sine wave frequency from either your source or an 
 
 In summary, for this week you need to:
 
-1. **P**: Get hardware working from model of sone wave
+1. **P**: Get hardware working from model of sine wave
 2. **P**: AC Meter Measuring Frequency
 3. Update your User Manual and Technical Documentation with your findings.
