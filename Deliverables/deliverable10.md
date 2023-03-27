@@ -1,5 +1,5 @@
 ## Deliverable 10
-
+NOTE: You cannot proceed to deliverables 10-12 unless your team has passed Checkpoint B.
 ## Sine Wave Models (P)
 It is time to start thinking about Checkpoint A- items. Identify two different ways to create a sine wave and determine which would be best for your project. Then, model your choice in Multisim. You should have two designs on Multisim and explain your decision for choosing the best to proceed forward with. The sine wave will be 50% duty cycle, variable frequency, and variable amplitude.  You will be choosing your best design for implementation for deliverable 11.
 Frequency: 1K-10KHz with 100Hz resolution
