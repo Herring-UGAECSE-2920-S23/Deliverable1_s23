@@ -2,7 +2,7 @@
 
 ## Implement Sine Wave Model (P)
 Implement your design from checkpoint 10.  You may make changes of course.  This is in hardware and standalone with your PI or whatever is needed for the sine wave generation.
-You should be able to show variable voltage of 0-5V (positive voltage only) in 1/4 V steps. 50% duty cycle and 1k-10KHz in 100Hz steps.
+You should be able to show variable voltage of 0 to 5V (positive voltage only) in 1/4 V steps. 50% duty cycle and 1k-10KHz in 100Hz steps.
 Use your UI from your PI to make changes.  We will not really check the UI vs the Checkpoint A requirement at this time.
 
 ## AC Meter Measuring Frequency. (P)
