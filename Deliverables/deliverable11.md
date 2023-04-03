@@ -8,7 +8,7 @@ Use your UI from your PI to make changes.  We will not really check the UI vs th
 **Please show photos of the following in your write-up: 2Vp and 2kHz, 3Vp and 5kHz, 5Vp and 9kHz.**
 
 ## AC Meter Measuring Frequency. (P)
-You should be able to measure sine wave frequency from either your source or an outside sinewave for the checkpoint A-.  The reference sine wave from external source will be the same specification as your project.  This will require you to search for methods to do this just like all other parts of this project.  You may want to think about clever comparator circuits.   We would expect 100Hz resolution best case.
+You should be able to measure sine wave frequency from either your source or an outside sinewave for the checkpoint A-.  The reference sine wave from external source will be the same specification as your project.  This will require you to search for methods to do this just like all other parts of this project.  You may want to think about clever comparator circuits.  We would expect 100Hz resolution best case. Please include a writeup explaining how this works in the pdf submission.
 
 **This will be tested in class on Wednesday April 12th, 2023 using an external funtion generator.**
 
