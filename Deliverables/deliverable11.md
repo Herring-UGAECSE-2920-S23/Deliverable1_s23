@@ -4,12 +4,14 @@
 Implement your design from checkpoint 10.  You may make changes of course.  This is in hardware and standalone with your PI or whatever is needed for the sine wave generation.
 You should be able to show variable voltage of 0 to 5V (positive voltage only) in 1/4 V steps. 50% duty cycle and 1k-10KHz in 100Hz steps.
 Use your UI from your PI to make changes.  We will not  check the UI vs the Checkpoint A requirement at this time.
+CLARIFICATION: Your sine wave needs to support 0 to 1V as the minimum amplitude range to 0 to 5V as the maximum amplitude range.
 
 **Please show photos of the following in your write-up: 2Vp and 2kHz, 3Vp and 5kHz, 5Vp and 9kHz.**
 
 ## AC Meter Measuring Frequency. (P)
 You should be able to measure sine wave frequency from either your source or an outside sinewave for the checkpoint A-.  The reference sine wave from external source will be the same specification as your project.  This will require you to search for methods to do this just like all other parts of this project.  You may want to think about clever comparator circuits.  We would expect 100Hz resolution best case. 
 Please include a detailed writeup explaining how this works in the .pdf submission.
+CLARIFICATION: Your frequency measurement needs to support 0 to 1V as the minimum amplitude range to 0 to 5V as the maximum amplitude range.
 
 **Functionality will be tested in class on Wednesday April 12th, 2023 using an external function generator. Plan to meet in one of the lab spaces (1409, 1450, or the rooms upstairs) on this day. Have a team member tell us where your team is on Wednesday.**
 
