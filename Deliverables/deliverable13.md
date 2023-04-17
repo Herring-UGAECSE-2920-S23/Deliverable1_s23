@@ -11,4 +11,4 @@ If (your team is finished with Checkpoint A- OR your team is not attempting Chec
   
   }
   
-  **Reminder: On Wednesday 4/19/23, teams 16-11 will be presenting their final presentation. Other teams are invited to come but are not required to attend.
+  **Reminder: On Wednesday 4/19/23, teams 16-11 will be presenting their final presentation. Other teams are invited to come but are not required to attend.**
